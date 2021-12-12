@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shiinez
+- 👋 Hi, I’m @hienerd
 - I’m a web developer
 - 🌱 I’m currently learning Python
 
